@@ -1,3 +1,4 @@
 My Resolution
 - CodeIgniter
 - web site
+- data base
